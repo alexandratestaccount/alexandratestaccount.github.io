@@ -1,0 +1,45 @@
+img {
+  height: 200px;
+  width: 200px;
+  border: 10px solid white;
+  border-radius: 50%;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#body-header {
+  color: black;
+  font-size: 30px;
+}
+
+header {
+  background: url("https://img.shockblast.net/2014/02/The-Pattern-Library-ShockBlast.jpg");
+  text-align: center;
+  padding-top: 50px;
+}
+
+ul {
+  background: #00BAD8;
+  padding: 10px;
+}
+
+li {
+  display: inline;
+  margin: 10px;
+}
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+  padding: 50px;
+}
+
+p {
+  line-height: 1.5;
+  font-size: 18px;
+  margin-top: 10px;
+}
